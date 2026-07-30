@@ -1,3 +1,4 @@
+import React from 'react'
 import './Footer.css'
 
 function Footer() {
@@ -5,7 +6,7 @@ function Footer() {
     return(
         <footer className='site-footer'>
             <p>
-                &copy;{year} Farheen. Built with React
+                &copy;{year} Esha. Built with React
             </p>
             </footer>
     )
